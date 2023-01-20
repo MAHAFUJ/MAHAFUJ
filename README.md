@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahafuj Hossain
-- 👀 I’m deeply interested in Autonomous Vehicles perception
+- 👀 I’m deeply interested in Robots and Autonomous Vehicles perception
 - 🌱 I’m currently learning Computer Vision and point cloud
 - 💞️ I’m looking to collaborate on Machine Vision
 - you can get to know me better on my website : www.mahafuj.net
